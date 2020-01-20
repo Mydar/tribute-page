@@ -1,0 +1,13 @@
+.bold-text {font-weight: bold;}
+.blue-text {color: blue;}
+.italics {font-style: italic;}
+.Moments {display: flex;}
+#image {max-width: 100%;
+display: block;
+height: auto;
+  margin: 0 auto;}
+.headings {font-size: 25px;}
+.introduction {Background-color: rgba(0, 0, 0, 0.1);
+  text-align: center;}
+#title {color: rgba(255, 0, 100, 1);
+background-color: rgba(0, 0, 0, 0.4);}
